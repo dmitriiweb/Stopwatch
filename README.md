@@ -1,5 +1,6 @@
-Simple Gtk3 Stopwatch
-![screenshot](https://github.com/dmitriiweb/Stopwatch/stopwatch.png)
+# Simple Gtk3 Stopwatch
+![screenshot](https://raw.githubusercontent.com/dmitriiweb/Stopwatch/master/screenshot.png)
+
 # Installation
 ```
 git clone https://github.com/dmitriiweb/Stopwatch
